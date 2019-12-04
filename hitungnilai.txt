@@ -1,0 +1,4 @@
+Nama: stefany
+Nilai Rata-rata: 90.0
+Grade: A
+Hasil: Lulus
